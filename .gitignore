@@ -3,3 +3,9 @@
 *.iws
 .idea/
 target/
+/bin
+.metadata
+.classpath
+.project
+/.settings
+.settings
